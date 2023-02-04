@@ -26,4 +26,4 @@ Our novel qPCR-based genome size estimation protocol is [here](https://github.co
 |*Etmopterus molleri*|qPCR|13.34|13.04||
 |*Okamejei kenojei*|Flow cytometry|3.40|3.33||
 
-We are publishing a paper reporting these genome size records and introducing our qPCR-based quantificationn protocol. But, for the moment, please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless explicitly stated otherwise.
+We are publishing a paper reporting some of these genome size records and introducing our qPCR-based quantificationn protocol. But, for the moment, please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless explicitly stated otherwise.
