@@ -1,10 +1,12 @@
 # Squalomix consortium activity regarding genome sizes
 This page contains technical information and resources regarding genone sizes of chondrichthyan species. 
-
+<BR>
+<BR>  
 
 ## Original protocol
 Our novel qPCR-based genome size estimation protocol is [here](https://github.com/Squalomix/c-value/blob/main/Protocol-sQuantGenome-v1.0.pdf).
-
+<BR>
+<BR>
 
 ## Original genome size data
 
