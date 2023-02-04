@@ -5,6 +5,11 @@ This page contains technical information and resources regarding genone sizes of
 
 ## Original protocol
 Our novel qPCR-based genome size estimation protocol is [here](https://github.com/Squalomix/c-value/blob/main/Protocol-sQuantGenome-v1.0.pdf).
+
+### History
+|Data|Event|
+|----|----|
+|Feb 4, 2023|Release of the protocol v1.0|
 <BR>
 <BR>
 
