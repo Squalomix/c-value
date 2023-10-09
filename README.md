@@ -9,8 +9,10 @@ Our novel qPCR-based genome size estimation protocol sQuantGenome is [here](http
 ### History
 |Data|Event|
 |----|----|
-|Feb 4, 2023|Release of the protocol v1.0|
+|Sep 25, 2023|[Online Publication in F1000Res](https://f1000research.com/articles/12-1204)| 
 |Feb 24, 2023|[Our preprint](https://www.biorxiv.org/content/10.1101/2023.02.23.529029v1.full) posted in bioRxiv|
+|Feb 4, 2023|Release of the protocol v1.0|
+
 <BR>
 <BR>
 
