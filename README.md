@@ -29,7 +29,7 @@ Our novel qPCR-based genome size estimation protocol sQuantGenome is [here](http
 |*Atelomycterus marmoratus*|Flow cytometry|4.33|4.23||
 |*Carcharhinus plumbeus*|Flow cytometry|3.43|3.35|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Hemitrygon akajei*|qPCR|3.82|3.74|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
-|*Cetorhinus maximus*||in progress|||
+|*Cetorhinus maximus*|qPCR|4.31|4.22|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Megachasma pelagios*|qPCR|5.81|5.68|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Etmopterus molleri*|qPCR|13.34|13.04|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Okamejei kenojei*|Flow cytometry|3.40|3.33|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
