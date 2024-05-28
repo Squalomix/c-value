@@ -4,11 +4,12 @@ This page contains technical information and resources regarding genone sizes of
 <BR>  
 
 ## Original protocol
-Our novel qPCR-based genome size estimation protocol sQuantGenome is [here](https://github.com/Squalomix/c-value/blob/main/Protocol-sQuantGenome-v1.0.pdf). This protocol is introduced in this publication ([Kadota et al., 2023](https://f1000research.com/articles/12-1204)).
+The latest versio of our novel qPCR-based genome size estimation protocol sQuantGenome is [here](https://github.com/Squalomix/c-value/blob/main/Protocol-sQuantGenome-v1.1.pdf). This protocol is introduced in this publication ([Kadota et al., 2023](https://f1000research.com/articles/12-1204)).
 
 ### History
 |Data|Event|
 |----|----|
+|May 28, 2024|Release of the protocol v1.1|
 |Sep 25, 2023|[Online Publication in F1000Res](https://f1000research.com/articles/12-1204)| 
 |Feb 24, 2023|[Our preprint](https://www.biorxiv.org/content/10.1101/2023.02.23.529029v1.full) posted in bioRxiv|
 |Feb 4, 2023|Release of the protocol v1.0|
