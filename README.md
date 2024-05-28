@@ -34,5 +34,7 @@ The latest versio of our novel qPCR-based genome size estimation protocol sQuant
 |*Megachasma pelagios*|qPCR|5.81|5.68|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Etmopterus molleri*|qPCR|13.34|13.04|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
 |*Okamejei kenojei*|Flow cytometry|3.40|3.33|[Kadota et al., 2023](https://f1000research.com/articles/12-1204)|
+|*Hemiscyllium ocellatum*||||To be performed soon|
+|*Callorhinchus milii*||||To be performed soon|
 
 Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of the records, unless explicitly stated in the table above.
