@@ -9,6 +9,7 @@ The latest version of our novel qPCR-based genome size estimation protocol sQuan
 ### History
 |Data|Event|
 |----|----|
+|April 1, 2025|Release of the first Japanese version of the protocol v2.0 (with some modifications)|
 |May 28, 2024|Release of the protocol v1.1|
 |Sep 25, 2023|[Online Publication in F1000Res](https://f1000research.com/articles/12-1204)| 
 |Feb 24, 2023|[Our preprint](https://www.biorxiv.org/content/10.1101/2023.02.23.529029v1.full) posted in bioRxiv|
